@@ -1,4 +1,4 @@
-# My Awwesome REST API
+# My Awesome REST API
 
 
 ## Installation
