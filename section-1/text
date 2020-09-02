@@ -1,0 +1,35 @@
+1. /test
+
+
+######################################################
+1. /create_tables   (here, we have test data)
+
+2. /register
+
+username: shiva
+password: shiva
+
+3. /auth        (from this we will get token)
+
+same username & password which we used for register
+
+4. http://127.0.0.1:4000/item/test      (GET method)
+add in headers: authorization , & JWT token(which we get from the auth)
+
+
+#########################################################################
+
+1. /create_tables   (in this file, we dont have test data)
+
+2. /register
+
+username: shiva
+password: shiva
+
+3. /auth        (from this we will get token)
+
+same username & password which we used for register
+
+4. http://127.0.0.1:4000/item/sugar      (GET method)
+add in headers: authorization , & JWT token(which we get from the auth)
+
