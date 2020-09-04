@@ -1,19 +1,6 @@
-# My Awesome REST API
+# Stores REST API
+
+This is built with Flask, Flask-RESTful, Flask-jWT and Flask-SQLAlchemy.
 
 
-## Installation
-
-```
-pip install Flask
-python app.py
-```
-
-## Description
-
-
-## Implementation
-
-
-This project is implemented using Flask, and is a REST API for a store.
-
- 
+Deployed on Heroku.
